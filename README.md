@@ -34,4 +34,3 @@ This data analysis project aims to provide insight into the structure and differ
   ### Limitations
   - -Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
   - Some termdates were far into the future and were not included in the analysis. The only termdates used were those less than or equal to the current date.
-  
