@@ -5,6 +5,9 @@ This data analysis project aims to provide insight into the structure and differ
 - *Data - HR Data with over 2200 rows from the year 2000 to the year 2020.
 - *Data Cleaning & Analysis - MySQL
 - *Data Transformation & Visualization - Power BI
+  
+[hr report.pdf](https://github.com/jelenarankovic/HR-Employee-Report/files/13820171/hr.report.pdf)
+ 
 ### Questions
 -  1. What is the gender distribution in the company?
 -  2. What is the ethnicity breakdown of employees in the company?
